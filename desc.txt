@@ -1,0 +1,2 @@
+latihan penggunaan BLoC
+tutorial: Flutter 70 BLoC Consumer (Tutorial Flutter Bahasa Indonesia) by Kuldii Project
